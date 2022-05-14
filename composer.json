@@ -21,7 +21,7 @@
         "nesbot/carbon": "^1.20",        
         "webmozart/glob": "^4.0",
         "symfony/finder": "^2.7 || ^3.0 || ^4.0",
-        "symfony/yaml": "2.8.52"
+        "symfony/yaml": "dev-v2.8.52-php8 as 2.8.52"
     },
     "require-dev": {
         "contao/imagine-svg": "^0.1.2",
